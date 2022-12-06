@@ -3,7 +3,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 I am Amal Dar Khalil
-- 🔭 I have 1+ years of experince working as a software engineer
+- 🔭 I have 1.5+ years of experince working as a software engineer
 - 💁‍♂️ I also worked as a teacher asistant at Birzeit unversity
 - 💻 I am currently working as a backend developer
 - ⚡ Fun fact: Still watching cartoon :3
