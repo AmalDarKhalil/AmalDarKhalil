@@ -3,8 +3,8 @@
 <h1>About Me 📌</h1>
 
 I am Amal Dar Khalil
-🔭 I have 1.5+ years of experience working as a software engineer
-💁‍♂️ I also worked as a teaching assistant at Birzeit university
+🔭 I have 2+ years of experience working as a software engineer
+💁‍♂️ I also worked as a teaching assistant at Birzeit University in the electrical and computer department
 💻 I am currently working as a .net backend developer
 ⚡ Fun fact: Still watch cartoons :3
 
