@@ -7,7 +7,6 @@ I am Amal Dar Khalil
 💁‍♂️ I also worked as a teaching assistant at Birzeit University in the electrical and computer department
 💻 I also worked as .net backend developer for +2 years
 💻 I am currently working as a backend engineer using Elixir  
-⚡ Fun fact: Still watch cartoons :3
 
 <br />
 
